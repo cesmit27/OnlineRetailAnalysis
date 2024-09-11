@@ -5,3 +5,4 @@ Several analyses, including forecasting and recommendations, of a dataset contai
 # Online Retail Analyis II
 Similar dataset to the first one, in this analysis I worked on feature engineering and then doing some KMeans Clustering with those features
 * Source: https://archive.ics.uci.edu/dataset/502/online+retail+ii
+  * I also now understand markdown, so this notebook looks a lot better in terms of formatting 😁
